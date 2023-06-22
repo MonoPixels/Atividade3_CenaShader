@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Amofada_cadeira
+  m_Name: Almofada_cadeira
   m_Shader: {fileID: -6465566751694194690, guid: 9781205c36e3e87418581feb73a3cc51,
     type: 3}
   m_ValidKeywords: []
