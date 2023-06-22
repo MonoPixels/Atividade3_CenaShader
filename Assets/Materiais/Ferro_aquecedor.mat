@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Ferro_aquecedor
-  m_Shader: {fileID: -6465566751694194690, guid: 50449bf7a4dfdf645b394e497bb76e51,
+  m_Shader: {fileID: -6465566751694194690, guid: f7eee5460fe4eb84eb88d8a8f69ab1a8,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -106,9 +106,12 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Metallic: 0
+    - _Metallic: 0.5
+    - _NoiseScale: 9.13
+    - _NoiseScale_Y_axis: 71.5
     - _OcclusionStrength: 1
     - _Parallax: 0.005
+    - _Power: 0.3
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
